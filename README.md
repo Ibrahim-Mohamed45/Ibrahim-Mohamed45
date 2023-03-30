@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mohamed</h1>
-<h3 align="center">I'm a frontend developer from London, UK</h3>
+<h3 align="center">I'm an aspiring frontend developer from London, UK</h3>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
